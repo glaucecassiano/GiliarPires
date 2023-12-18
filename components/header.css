@@ -1,0 +1,93 @@
+body {
+    color: black;
+}
+
+
+.bannerUm {
+    display: flex;
+    background-color: rgba(30, 53, 37, 0.7294);
+    height: 70px;
+    align-items: center;
+
+}
+
+.redesocial {
+    display: flex;
+    margin-top: 5px;
+    margin-right: 16px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #F9B215;
+
+}
+
+
+.redesocial.sejamembro {
+    display: flex;
+    justify-content: space-between
+
+
+}
+
+.sejamembro {
+    display: flex;
+    align-items: center;    
+}
+
+.bandeira {
+    display: flex;
+    margin-left: 10px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #F9B215;
+}
+
+.lgpd {
+    border-radius: 50%;
+    border: 2++px solid;
+}
+
+ul{
+
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    justify-content: center;
+    padding: 5px;
+    flex-wrap: wrap;
+}
+
+li {
+    list-style-type: none;
+
+}
+
+button {
+    background-color: #F9B215;
+    margin-left: 10px;
+
+}
+
+.nav{
+
+    display: flex;
+    justify-content: flex-end;
+    padding: 34px;
+    max-width: 100%;
+
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+

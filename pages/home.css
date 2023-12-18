@@ -1,0 +1,66 @@
+* {
+  text-decoration: none;
+  margin: 0;
+}
+
+
+
+#barraSeparadora {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+
+img#especialidades {
+  width: 100px;
+  height: 200px;
+  display: flex;
+
+}
+
+
+.especialidades-lista {  
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+#especialidades-inteiro {
+  display: flex;
+  flex-direction: column;
+}
+
+.equipe-display {
+display: flex;
+justify-content: center;
+gap: 90px;
+
+
+}
+
+
+h2 {
+  display: flex;
+  justify-content: center
+
+}
+
+p.paragrafoEspecialidade {
+  display: flex;
+  justify-content: center;
+}
+
+p.equipe-paragrafo {
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  display: flex;
+
+}
+
+img#escritorio-carrosel {
+  width: 100vh;
+}
